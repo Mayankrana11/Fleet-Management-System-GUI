@@ -1,0 +1,6 @@
+#Type,ID,Model,MaxSpeed,Other fields
+Car,C145,Honda5500,150.0,4,0.0,0,0
+Truck,T209,ScrR500,95.0,8,0.0,0.0,0
+Bus,B078,Volvo9400,85.0,8,0.0,0,0.0,0
+CargoShip,S310,CrusAID100,35.0,true,0.0,0.0,0
+Truck,T01,ASK,55.0,6,0.0,0.0,0
