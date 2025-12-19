@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚗 Fleet Management & Highway Simulator
 
 **Assignments 1, 2, and 3 (AP-M2025)**
