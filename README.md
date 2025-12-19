@@ -492,4 +492,3 @@ Multithreaded highway simulation
 Demonstrated race conditions and synchronization fixes
 
 Real-time visualization of vehicle movement
->>>>>>> 2c9a4cb9fb7cbc9bbaa0bc6870fbe2489f9557ab
