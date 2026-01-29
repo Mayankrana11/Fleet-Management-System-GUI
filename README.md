@@ -1,4 +1,4 @@
-# 🚗 Fleet Management & Highway Simulator  
+#  Fleet Management & Highway Simulator  
 **Assignments 1, 2, and 3 (AP-M2025)**
 
 This repository contains the complete and integrated implementation of **Assignment 1**, **Assignment 2**, and **Assignment 3**, developed as a unified **Fleet Management and Highway Simulation System** using Java, Swing, and multithreading.
@@ -7,7 +7,7 @@ The project demonstrates **object-oriented design**, **GUI development**, **mult
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [Features](#features)
   - [Multithreaded Simulation](#multithreaded-simulation)
@@ -24,7 +24,7 @@ The project demonstrates **object-oriented design**, **GUI development**, **mult
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project evolves progressively across three assignments:
 
@@ -36,7 +36,7 @@ Each vehicle runs independently in its own thread while updating shared highway 
 
 ---
 
-## 🚦 Features
+##  Features
 
 ### Multithreaded Simulation
 - Each vehicle runs in a dedicated `VehicleThread`
@@ -91,7 +91,7 @@ Each vehicle panel displays ID, model, mileage, fuel level, and status badge.
 
 ---
 
-## 🛠 How to Compile & Run
+##  How to Compile & Run
 
 ### Requirements
 - Java 17 or higher
@@ -119,14 +119,14 @@ All UI updates use `SwingUtilities.invokeLater(...)`.
 
 ---
 
-## 🧵 Thread Safety & EDT
+##  Thread Safety & EDT
 
 Simulation logic runs on worker threads.  
 All GUI updates are dispatched on the Event Dispatch Thread (EDT).
 
 ---
 
-## 📷 Race Condition Evidence
+##  Race Condition Evidence
 
 Screenshots in `docs/`:
 
@@ -137,7 +137,7 @@ Screenshots in `docs/`:
 
 ---
 
-## 📁 Persistence & CSV Integration
+##  Persistence & CSV Integration
 
 - Fleet data stored in `fleet_data.csv`
 - Supports load, save, and CSV import
@@ -145,7 +145,7 @@ Screenshots in `docs/`:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 project-root/
@@ -163,6 +163,6 @@ project-root/
 
 ---
 
-## ✅ Summary
+##  Summary
 
 A complete academic project demonstrating **OOP**, **GUI design**, **multithreading**, and **synchronization**, covering all requirements of Assignments 1, 2, and 3.
