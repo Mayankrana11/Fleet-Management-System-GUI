@@ -109,7 +109,7 @@ java -cp out Main
 
 ---
 
-## 🖼 GUI Layout Overview
+##  GUI Layout Overview
 
 - **Top Panel**: Controls + counters  
 - **Middle (JSplitPane)**: Highway view + vehicle list  
